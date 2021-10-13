@@ -1,0 +1,4 @@
+"","eventID","eventDate","decimalLongitude","decimalLatitude","locality","site","geodeticDatum","verbatimCoordinateSystem","georeferenceProtocol"
+"1","Site1_1929-12-01","1929-12-01",-64.840984,48.935966,"Gaspe Peninsula","Site1","WGS84","decimal degrees","Random coordinates obtained from Google Earth"
+"2","Site2_1930-02-13","1930-02-13",-64.766512,48.540502,"Gaspe Peninsula","Site2","WGS84","decimal degrees","Random coordinates obtained from Google Earth"
+"3","Site3_1929-12-01","1929-12-01",-65.512333,48.329837,"Gaspe Peninsula","Site3","WGS84","decimal degrees","Random coordinates obtained from Google Earth"
